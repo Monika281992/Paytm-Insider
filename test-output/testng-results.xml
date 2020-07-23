@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3358" started-at="2020-05-03T14:20:04 IST" finished-at="2020-05-03T14:20:07 IST">
+  <suite name="Default suite" duration-ms="3041" started-at="2020-07-23T08:52:33 IST" finished-at="2020-07-23T08:52:36 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3358" started-at="2020-05-03T14:20:04 IST" finished-at="2020-05-03T14:20:07 IST">
+    <test name="Default test" duration-ms="3041" started-at="2020-07-23T08:52:33 IST" finished-at="2020-07-23T08:52:36 IST">
       <class name="ApiTesting.paytmInsider.Apitesting">
-        <test-method status="PASS" signature="getresponse()[pri:0, instance:ApiTesting.paytmInsider.Apitesting@2173f6d9]" name="getresponse" duration-ms="3281" started-at="2020-05-03T14:20:04 IST" finished-at="2020-05-03T14:20:07 IST">
+        <test-method status="PASS" signature="getresponse()[pri:0, instance:ApiTesting.paytmInsider.Apitesting@23d2a7e8]" name="getresponse" duration-ms="2977" started-at="2020-07-23T08:52:33 IST" finished-at="2020-07-23T08:52:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getresponse -->
